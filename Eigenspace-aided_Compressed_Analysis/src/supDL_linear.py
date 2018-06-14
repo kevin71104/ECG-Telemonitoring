@@ -39,10 +39,11 @@ def supDL_linear(XArr, Y, Xval, Yval, wholeOpts, Classifieropts, fista_opts,
           * `W` : classifier
           * `b` : bias term
     -----------------------------------------------
-    o Author: Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
-              Bo-Hong (Jay) Cho, jaycho2007@gmail.com
-              Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
-              github :
+    o Author : Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
+               Bo-Hong (Jay) Cho, jaycho2007@gmail.com
+               Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
+      GitHub : https://github.com/kevin71104/ECG-Telemonitoring/tree/master/Eigenspace-aided_Compressed_Analysis/src
+      Date   : 2018.06.14
     -----------------------------------------------
     o Reference: [8] J. Mairal, F. Bach and J. Ponce, “Task-Driven Dictionary Learning,”
                      in IEEE Trans. Pattern Anal. Mach. Intell.,

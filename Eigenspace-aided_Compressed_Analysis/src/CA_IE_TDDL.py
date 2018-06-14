@@ -8,10 +8,11 @@ import numpy as np
 import time
 
 """
-o Author: Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
-          Bo-Hong (Jay) Cho, jaycho2007@gmail.com
-          Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
-          github :
+o Author : Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
+           Bo-Hong (Jay) Cho, jaycho2007@gmail.com
+           Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
+  GitHub : https://github.com/kevin71104/ECG-Telemonitoring/tree/master/Eigenspace-aided_Compressed_Analysis/src
+  Date   : 2018.06.14
 o Script:
   - python3 CA-E.py <-f datapath> <-c #classes> <-nr data ratio> [-nor]
                     <-P CS type> <-cr compressed ratio>

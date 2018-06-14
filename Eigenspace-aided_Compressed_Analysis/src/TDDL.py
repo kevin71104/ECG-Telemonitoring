@@ -40,10 +40,11 @@ def TDDL(XArr, YArr, trls, ttls, wholeOpts, Classifieropts, fista_opts, ODL_opts
           * `b` : bias term
         + `Acc` : a list consisting of TrainAcc and TestAcc
     -----------------------------------------------
-    o Author: Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
-              Bo-Hong (Jay) Cho, jaycho2007@gmail.com
-              Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
-              github :
+    o Author : Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
+               Bo-Hong (Jay) Cho, jaycho2007@gmail.com
+               Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
+      GitHub : https://github.com/kevin71104/ECG-Telemonitoring/tree/master/Eigenspace-aided_Compressed_Analysis/src
+      Date   : 2018.06.14
     -----------------------------------------------
     o Reference: [8] J. Mairal, F. Bach and J. Ponce, “Task-Driven Dictionary Learning,”
                      in IEEE Trans. Pattern Anal. Mach. Intell.,

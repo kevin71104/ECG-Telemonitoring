@@ -26,10 +26,11 @@ def Indep_PCA(args, normalize = False, semi = True, KNN = False):
           * `trls`    : label of train dta
           * `ttls`    : label of test dta
     -----------------------------------------------
-    o Author: Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
-              Bo-Hong (Jay) Cho, jaycho2007@gmail.com
-              Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
-              github :
+    o Author : Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
+               Bo-Hong (Jay) Cho, jaycho2007@gmail.com
+               Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
+      GitHub : https://github.com/kevin71104/ECG-Telemonitoring/tree/master/Eigenspace-aided_Compressed_Analysis/src
+      Date   : 2018.06.14
     """
     data = sio.loadmat(args.file)
     X_tmp      = data['X_r_train']

@@ -7,10 +7,11 @@ import numpy as np
 import tensorflow as tf
 from utils import *
 """
-o Author: Bo-Hong (Jay) Cho, jaycho2007@gmail.com
-          Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
-          Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
-          github :
+o Author : Bo-Hong (Jay) Cho, jaycho2007@gmail.com
+           Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
+           Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
+  GitHub : https://github.com/kevin71104/ECG-Telemonitoring/tree/master/Eigenspace-aided_Compressed_Analysis/src
+  Date   : 2018.06.14
 o Script:
     - python3 raw_nn.py <-f Data path> <-b Batch size> <-nr Number ratio of data> <-cr Compress ratio>
                   <-c # of classes> <-it Iterations> <-l Learning rate> <-m Model> 

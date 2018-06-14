@@ -7,10 +7,11 @@ import numpy as np
 from utils import *
 from module import CS_API
 """
-o Author: Bo-Hong (Jay) Cho, jaycho2007@gmail.com
-          Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
-          Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
-          github :
+o Author : Bo-Hong (Jay) Cho, jaycho2007@gmail.com
+           Kai-Chieh (Kevin) Hsu, kevin71104@gmail.com
+           Ching-Yao (Jason) Chou, endpj@access.ntu.edu.tw
+  GitHub : https://github.com/kevin71104/ECG-Telemonitoring/tree/master/Eigenspace-aided_Compressed_Analysis/src
+  Date   : 2018.06.14
 o Script:
   - python3 raw_svm.py <-f datapath> <-c #classes> <-nr data ratio> 
                     <-g Gamma>  <-C C> <-tn #tests> <-cr compressed ratio>
