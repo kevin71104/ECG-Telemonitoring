@@ -189,6 +189,8 @@ def main():
         if i == 0:
             model['Atr_x_hat'] = Atr1
             model['Att_x_hat'] = Att1
+            model['PSI'] = PSI
+            model['x_mean'] = x_mean
             if args.compress < 1:
                 model['PHI'] = PHI
             sio.savemat('../../model/' + args.initModel + '_F.mat', model)
