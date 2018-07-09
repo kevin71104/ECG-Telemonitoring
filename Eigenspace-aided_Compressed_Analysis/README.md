@@ -38,8 +38,8 @@ We propose eigenspace-aided compressed analysis to integrate **Principle Compone
 
    ```
 Kai-Chieh Hsu:
-   + b03901026@ntu.edu.tw
-   + kevin71104@gmail.com
+    + b03901026@ntu.edu.tw
+    + kevin71104@gmail.com
    ```
 
 ## References
