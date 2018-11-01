@@ -3,7 +3,7 @@
 We propose eigenspace-aided compressed analysis to integrate **Principle Component Analysis** with **Compressed Sensing** and **Task-Driven Dictionary Learning** with this toolbox in the hope to help peer researchers.
 
 - **Author**: Kai-Chieh, Hsu, Bo-Hong Cho, Ching-Yao Chou and An-Yeu (Andy) Wu
-- **Related publications:** Kai-Chieh, Hsu, Bo-Hong Cho, Ching-Yao Chou and An-Yeu (Andy) Wu, "Low-Complexity Compressed Analysis in Eigenspace with Limited Labeled Data for Real-Time Electrocardiography Telemonitoring," *submitted to 2018 IEEE Global Conference on Signal and Information Processing.*
+- **Related publications:** Kai-Chieh, Hsu, Bo-Hong Cho, Ching-Yao Chou and An-Yeu (Andy) Wu, "Low-Complexity Compressed Analysis in Eigenspace with Limited Labeled Data for Real-Time Electrocardiography Telemonitoring," *accepted by 2018 IEEE Global Conference on Signal and Information Processing.*
 
 ---
 
